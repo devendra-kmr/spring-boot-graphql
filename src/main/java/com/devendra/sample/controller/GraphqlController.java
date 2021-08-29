@@ -25,6 +25,7 @@ import io.leangen.graphql.metadata.strategy.value.jackson.JacksonValueMapperFact
 @RestController
 public class GraphqlController {
 
+
 	private final GraphQL graphQL;
 
 	@Autowired
